@@ -37,10 +37,14 @@ struct CourseSelectionPage: View {
     @ViewBuilder
     private func destinationView(for course: String) -> some View {
         switch course {
+        case "CS61A":
+            CS61A()
         case "CS61B":
             CS61B()
         case "EECS16B":
             EECS16B()
+        case "ASAM127":
+            ASAM127()
         default:
             Text("Course not found")
         }

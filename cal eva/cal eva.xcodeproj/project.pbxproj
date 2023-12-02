@@ -8,6 +8,8 @@
 
 /* Begin PBXBuildFile section */
 		707D69772B1BB3F0002A6337 /* EECS16B.swift in Sources */ = {isa = PBXBuildFile; fileRef = 707D69762B1BB3F0002A6337 /* EECS16B.swift */; };
+		707D69792B1BBC06002A6337 /* CS61A.swift in Sources */ = {isa = PBXBuildFile; fileRef = 707D69782B1BBC06002A6337 /* CS61A.swift */; };
+		707D697B2B1BBDF6002A6337 /* ASAM127.swift in Sources */ = {isa = PBXBuildFile; fileRef = 707D697A2B1BBDF6002A6337 /* ASAM127.swift */; };
 		8F7B3C352B0EE26300C7AC1B /* cal_evaApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F7B3C342B0EE26300C7AC1B /* cal_evaApp.swift */; };
 		8F7B3C372B0EE26300C7AC1B /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F7B3C362B0EE26300C7AC1B /* ContentView.swift */; };
 		8F7B3C392B0EE26400C7AC1B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8F7B3C382B0EE26400C7AC1B /* Assets.xcassets */; };
@@ -19,6 +21,8 @@
 
 /* Begin PBXFileReference section */
 		707D69762B1BB3F0002A6337 /* EECS16B.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EECS16B.swift; sourceTree = "<group>"; };
+		707D69782B1BBC06002A6337 /* CS61A.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CS61A.swift; sourceTree = "<group>"; };
+		707D697A2B1BBDF6002A6337 /* ASAM127.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ASAM127.swift; sourceTree = "<group>"; };
 		8F7B3C312B0EE26300C7AC1B /* cal eva.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "cal eva.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		8F7B3C342B0EE26300C7AC1B /* cal_evaApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = cal_evaApp.swift; sourceTree = "<group>"; };
 		8F7B3C362B0EE26300C7AC1B /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -65,8 +69,10 @@
 				8F7B3C382B0EE26400C7AC1B /* Assets.xcassets */,
 				8F7B3C3A2B0EE26400C7AC1B /* Preview Content */,
 				8F7B3C422B0F18D700C7AC1B /* CourseSelectionPage.swift */,
+				707D69782B1BBC06002A6337 /* CS61A.swift */,
 				8F7B3C442B0F20C500C7AC1B /* CS61B.swift */,
 				707D69762B1BB3F0002A6337 /* EECS16B.swift */,
+				707D697A2B1BBDF6002A6337 /* ASAM127.swift */,
 			);
 			path = "cal eva";
 			sourceTree = "<group>";
@@ -153,8 +159,10 @@
 				8F7B3C432B0F18D700C7AC1B /* CourseSelectionPage.swift in Sources */,
 				8F7B3C452B0F20C500C7AC1B /* CS61B.swift in Sources */,
 				707D69772B1BB3F0002A6337 /* EECS16B.swift in Sources */,
+				707D697B2B1BBDF6002A6337 /* ASAM127.swift in Sources */,
 				8F7B3C372B0EE26300C7AC1B /* ContentView.swift in Sources */,
 				8F7B3C352B0EE26300C7AC1B /* cal_evaApp.swift in Sources */,
+				707D69792B1BBC06002A6337 /* CS61A.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
